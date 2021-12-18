@@ -21,7 +21,7 @@ home_button = [
 
 
 start_button = [
-    [InlineKeyboardButton("🏅 Telegram 🏅", url=" @lawliet_the_l"),
+    [InlineKeyboardButton("🏅 Telegram 🏅", url=" https://t.me/TheLawliet"),
      InlineKeyboardButton("⚙️Settings ⚙", "start_btn")]
 ]
 
@@ -49,7 +49,7 @@ finished_button = [
 
 
 terminate_btn = [
-    [InlineKeyboardButton("🧸 Updates", url=" @lawliet_the_l"),
+    [InlineKeyboardButton("🧸 Updates", url="https://t.me/TheLawliet"),
      InlineKeyboardButton("❓ Usage", url="https://telegra.ph/Clonebot-UI-Help-05-30")],
     [InlineKeyboardButton("🚫 Terminate", "terminate_btn"),
      InlineKeyboardButton("🏠 Home", "start_btn")]
